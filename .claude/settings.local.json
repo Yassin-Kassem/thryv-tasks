@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__plugin_supabase_supabase__list_projects",
+      "mcp__plugin_supabase_supabase__get_organization",
+      "mcp__plugin_supabase_supabase__list_organizations",
+      "Bash(dir:*)",
+      "mcp__plugin_supabase_supabase__search_docs",
+      "mcp__claude_ai_Supabase__list_organizations",
+      "mcp__claude_ai_Supabase__list_projects",
+      "mcp__claude_ai_Supabase__get_project_url",
+      "mcp__claude_ai_Supabase__get_publishable_keys",
+      "mcp__claude_ai_Supabase__list_tables",
+      "mcp__claude_ai_Supabase__apply_migration",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "mcp__claude_ai_Supabase__get_advisors"
+    ]
+  }
+}
