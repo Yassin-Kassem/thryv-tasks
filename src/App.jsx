@@ -1,5 +1,6 @@
-import FeatureTracker from './components/FeatureTracker'
+import TaskTracker from './components/TaskTracker/TaskTracker'
+import './App.css'
 
 export default function App() {
-  return <FeatureTracker />
+  return <TaskTracker />
 }

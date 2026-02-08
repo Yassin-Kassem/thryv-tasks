@@ -14,7 +14,11 @@
       "mcp__claude_ai_Supabase__apply_migration",
       "Bash(npm install:*)",
       "Bash(npm run build:*)",
-      "mcp__claude_ai_Supabase__get_advisors"
+      "mcp__claude_ai_Supabase__get_advisors",
+      "Bash(git push:*)",
+      "Bash(git fetch:*)",
+      "mcp__claude_ai_Supabase__execute_sql",
+      "Bash(npm run dev:*)"
     ]
   }
 }
